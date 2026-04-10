@@ -1,4 +1,4 @@
-let DoH = "security.cloudflare-dns.com";
+let DoH = "cloudflare-dns.com";
 const jsonDoH = `https://${DoH}/resolve`;
 const dnsDoH = `https://${DoH}/dns-query`;
 let DoH路径 = 'dns-query';
